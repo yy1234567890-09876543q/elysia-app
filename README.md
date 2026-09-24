@@ -368,7 +368,8 @@
 
 **请私信作者的抖音** —— 源码与 VIP 都在那边谈 ✓
 
-- 抖音号：`（待补：把抖音号告诉我，爱莉给你填上）`
+- **抖音号**：2024lxdyc
+- **抖音主页**：https://www.douyin.com/user/MS4wLjABAAAAKu0BZWJzkXc2fh8zumzvqnrhpLb0YBhu33JhfRnKc4jCzys3VHnXQqxLIPIuDPBr
 - 说明：本仓库只发布**安装包与玩法手册**，不放源码；VIP 权益也在抖音那边开通
 
 > 私信时说一下「从 GitHub 来的」，这样比较好认~
